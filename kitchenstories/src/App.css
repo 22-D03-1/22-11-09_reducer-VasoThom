@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+/* 
+input[type="checkbox"]:checked + label {
+  text-decoration: line-through;
+} */
+.checked {
+  text-decoration: line-through;
+}
